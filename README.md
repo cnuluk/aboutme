@@ -31,3 +31,5 @@
 ## WORKS
 
 網站作品:
+[Codepen](https://codepen.io/iypqqvmt/)
+[網頁作品](https://campaign.friendo.com.tw/thechef?utm_source=Friendo&utm_medium=Banner&utm_campaign=Golden)
