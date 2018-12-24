@@ -15,6 +15,8 @@
 ## EXPERIENCE
 
 * **春樹科技股份有限公司 實習生**
+
+* **大專院校 B2B 跨境電商競賽**
   
 ---
 
@@ -31,5 +33,5 @@
 ## WORKS
 
 網站作品:
-[Codepen](https://codepen.io/iypqqvmt/)
+[Codepen](https://codepen.io/iypqqvmt/) 
 [網頁作品](https://campaign.friendo.com.tw/thechef?utm_source=Friendo&utm_medium=Banner&utm_campaign=Golden)
